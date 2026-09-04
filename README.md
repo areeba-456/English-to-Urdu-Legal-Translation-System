@@ -1,0 +1,1 @@
+# English-to-Urdu-Legal-Translation-System
