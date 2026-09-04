@@ -1,0 +1,6 @@
+gradio==5.50.0
+transformers
+torch==2.8.0
+sentencepiece
+sacremoses
+spaces
